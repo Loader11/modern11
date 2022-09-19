@@ -1,0 +1,3 @@
+[pyrogram]
+api_id = 13280157
+api_hash 728ec475d2b34e84d1ad49368682f58b
